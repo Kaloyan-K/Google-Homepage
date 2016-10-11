@@ -1,0 +1,228 @@
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 166px;
+}
+
+
+
+input[type=search] {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	width: 580px;
+	height: 40px;
+
+}
+
+
+#Gmail:hover {
+	text-decoration: underline;
+}
+
+
+#Apps:hover {
+	text-decoration: underline;
+}
+
+
+#Images:hover {
+	text-decoration: underline;
+}
+
+#Appsimg:hover {
+	color: black;
+}
+
+#Advertising:hover {
+	text-decoration: underline;
+}
+
+#Business:hover {
+	text-decoration: underline;
+}
+
+#About:hover {
+	text-decoration: underline;
+}
+
+#Privacy:hover {
+	text-decoration: underline;
+}
+
+#Terms:hover {
+	text-decoration: underline;
+}
+
+#Settings:hover {
+	text-decoration: underline;
+}
+
+
+#Gmail {
+	display: inline-block;
+	padding-left: 1170px;
+	font-family: arial, sans-serif;
+	font-style: bold;
+	font-size: 13px;
+	color: #424949;
+}
+
+#Appsimg {
+	display: inline-block;
+	position: relative;
+}
+
+
+#Images {
+	display: inline-block;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	color: #424949;
+}
+
+#Sign {
+	display: inline-block;
+	border: 5px solid #337AFF;
+	padding-left: 11px;
+	padding-right: 11px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	background-color: #337AFF;
+	font-family: arial,sans-serif;
+	font-size: 13px;
+	color: white;
+	border-radius: 1px;
+	margin-left: 16px;
+	font-weight: bold;
+}
+
+
+.Middle-Buttons {
+
+}
+
+
+#Search {
+	display: inline-block;
+	margin-left: 40%;
+	margin-top: 15px;
+	border: solid 1px #F2F2F2;
+	padding: 7px 7px 7px 7px;
+	background-color: #F2F2F2;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #757575;
+}
+
+#Lucky {
+	margin-left: 2px;
+	display: inline-block;
+	border: solid 1px #F2F2F2;
+	padding: 7px 7px 7px 7px;
+	background-color: #F2F2F2; 
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #757575;
+}
+
+#Search:hover {
+	color: black;
+}
+
+#Search:link {
+	text-decoration: none;
+}
+
+
+#Lucky:hover {
+	color: black;
+}
+
+#Lucky:link {
+	text-decoration: none;
+}
+
+
+
+.bottom-navbar {
+	position: fixed;
+	bottom: 0;
+	background-color: #F2F2F2;
+	width: 100%;
+}
+
+.navbar {
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+
+
+#Advertising {
+	display: inline-block;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	color: #424949;
+	
+}
+
+#Business {
+	display: inline-block;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	color: #424949;
+	
+}
+
+#About {
+	display: inline-block;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	color: #424949;
+	
+}
+
+#Privacy {
+	display: inline-block;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	color: #424949;
+	margin-left: 950px;
+}
+
+#Terms {
+	display: inline-block;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	color: #424949;
+	
+}
+
+
+#Settings {
+	display: inline-block;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	color: #424949;
+	
+}
